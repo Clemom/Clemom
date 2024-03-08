@@ -33,12 +33,13 @@ Je mets actuellement en pratique mes connaissances à travers divers projets, en
 ![VISUALSTUDIO](https://img.shields.io/badge/visualstudio-Expert?style=for-the-badge&logo=visualstudio&logoColor=white&color=%230983ce)
 ![WORDPRESS](https://img.shields.io/badge/wordpress-Expert?style=for-the-badge&logo=wordpress&logoColor=white&color=black)
 ![FIGMA](https://img.shields.io/badge/figma-Expert?style=for-the-badge&logo=figma&logoColor=white&color=%23a55eff)
-![ADOBE ILLUSTRATOR](https://img.shields.io/badge/adobeillustrator-Expert?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=%23ff7b20)
-![ADOBE PHOTOSHOP](https://img.shields.io/badge/adobephotoshop-Expert?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=%2308253c)
-![ADOBE INDESIGN](https://img.shields.io/badge/adobeindesign-Expert?style=for-the-badge&logo=adobeindesign&logoColor=white&color=%234f0a26)
-![ADOBE LIGHTROOM](https://img.shields.io/badge/adobelightroom-Expert?style=for-the-badge&logo=adobelightroom&logoColor=white&color=%23001e36)
-![ADOBE PREMIEREPRO](https://img.shields.io/badge/adobepremierepro-Expert?style=for-the-badge&logo=adobepremierepro&logoColor=white&color=%23a2a0ff)
-![ADOBE AFTEREFFECTS](https://img.shields.io/badge/adobe-after-effects-Expert?style=for-the-badge&logo=adobeaftereffects&logoColor=white&color=%23080860)
+![ADOBE ILLUSTRATOR](https://img.shields.io/badge/adobe%20illustrator-Expert?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=%23ff9d08)
+![ADOBE PHOTOSHOP](https://img.shields.io/badge/adobe%20photoshop-Expert?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=%2355aff9)
+![ADOBE INDESIGN](https://img.shields.io/badge/adobe%20indesign-Expert?style=for-the-badge&logo=adobeindesign&logoColor=white&color=%23ff396b)
+![ADOBE LIGHTROOM](htts://img.shields.io/badge/adobe%20lightroom-Expert?style=for-the-badge&logo=adobelightroom&logoColor=white&color=%2337abff)
+![ADOBE PREMIEREPRO](https://img.shields.io/badge/adobe%20premiere%20pro-Expert?style=for-the-badge&logo=adobepremierepro&logoColor=white&color=%239c9cff)
+![ADOBE AFTEREFFECTS](https://img.shields.io/badge/adobe%20after%20effects-Expert?style=for-the-badge&logo=adobeaftereffects&logoColor=white&color=%23c489ff)
+
 
 
 
