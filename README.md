@@ -3,7 +3,7 @@
 ## 👤 À propos de moi
 
 Je m'appelle Clément Moreau, j'ai 27 ans et je suis basé à Bordeaux. 
-Après 6 ans en tant qu’au entrepreneur dans l'audiovisuel, j’entame aujourd’hui une reconversion professionnelle en développement web. Désireux d’en apprendre plus sur ce domaine, je suis en auto-formation intensive depuis le mois de septembre 2023 : HTML, CSS, PHP, JavaScript, SQL, MySQL, Git, GitHub, Figma…
+Après 6 ans en tant qu’autoentrepreneur dans l'audiovisuel, j’entame aujourd’hui une reconversion professionnelle en développement web. Désireux d’en apprendre plus sur ce domaine, je suis en auto-formation intensive depuis le mois de septembre 2023 : HTML, CSS, PHP, JavaScript, SQL, MySQL, Git, GitHub, Figma…
 
 A la rentrée prochaine, je serai étudiant en 3ème année de Bachelor Développement Informatique au sein de l’école Sup de Vinci, à Bordeaux. Je suis donc à la recherche d’une alternance pour monter en compétences sur cette nouvelle activité.
 
