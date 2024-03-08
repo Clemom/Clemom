@@ -30,7 +30,7 @@ Je mets actuellement en pratique mes connaissances à travers divers projets, en
 ![MySQL](https://img.shields.io/badge/MYSQL-Expert?style=for-the-badge&logo=mysql&logoColor=white&color=%2308638a)
 ![GITHUB](https://img.shields.io/badge/github-Expert?style=for-the-badge&logo=github&logoColor=white&color=%232b3036)
 ![GIT](https://img.shields.io/badge/git-Expert?style=for-the-badge&logo=git&logoColor=white&color=%23f15639)
-![VISUALSTUDIO](https://img.shields.io/badge/visualstudio-Expert?style=for-the-badge&logo=visualstudio&logoColor=white&color=%230983ce)
+![VISUALSTUDIO](https://img.shields.io/badge/Visual%20Studio-Expert?style=for-the-badge&logo=Visual%20Studio&logoColor=white&color=%230989d2)
 ![WORDPRESS](https://img.shields.io/badge/wordpress-Expert?style=for-the-badge&logo=wordpress&logoColor=white&color=black)
 ![FIGMA](https://img.shields.io/badge/figma-Expert?style=for-the-badge&logo=figma&logoColor=white&color=%23a55eff)
 ![ADOBE ILLUSTRATOR](https://img.shields.io/badge/adobe%20illustrator-Expert?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=%23ff9d08)
