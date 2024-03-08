@@ -32,6 +32,17 @@ Je mets actuellement en pratique mes connaissances à travers divers projets, en
 ![GIT](https://img.shields.io/badge/git-Expert?style=for-the-badge&logo=git&logoColor=white&color=%23f15639)
 ![VISUALSTUDIO](https://img.shields.io/badge/visualstudio-Expert?style=for-the-badge&logo=visualstudio&logoColor=white&color=%230983ce)
 ![WORDPRESS](https://img.shields.io/badge/wordpress-Expert?style=for-the-badge&logo=wordpress&logoColor=white&color=black)
+![ADOBE ILLUSTRATOR](https://img.shields.io/badge/illustrator-Expert?style=for-the-badge&logo=ai&logoColor=white&color=%23ff7b20)
+
+
+
+
+
+
+
+
+
+
 ![FIGMA](https://img.shields.io/badge/figma-Expert?style=for-the-badge&logo=figma&logoColor=white&color=%23a55eff)
 
 
