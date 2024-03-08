@@ -17,6 +17,9 @@ Si mon profil vous intéresse, n'hésitez pas à me contacter 👇​
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ClementMoreau-blue)]([[Votre-URL-LinkedIn](https://www.linkedin.com/in/clementmoreaupro/)])
 
+https://img.shields.io/badge/LinkedIn-Expert?style=flat-square&logo=LinkedIn&color=%23126bc4&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fclementmoreaupro%2F
+
+
 
 ## 💻 Tech Stack
 
