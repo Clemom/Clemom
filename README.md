@@ -36,7 +36,7 @@ Je mets actuellement en pratique mes connaissances à travers divers projets, en
 ![ADOBE ILLUSTRATOR](https://img.shields.io/badge/adobe%20illustrator-Expert?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=%23ff9d08)
 ![ADOBE PHOTOSHOP](https://img.shields.io/badge/adobe%20photoshop-Expert?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=%2355aff9)
 ![ADOBE INDESIGN](https://img.shields.io/badge/adobe%20indesign-Expert?style=for-the-badge&logo=adobeindesign&logoColor=white&color=%23ff396b)
-![ADOBE LIGHTROOM](htts://img.shields.io/badge/adobe%20lightroom-Expert?style=for-the-badge&logo=adobelightroom&logoColor=white&color=%2337abff)
+![ADOBE LIGHTROOM](https://img.shields.io/badge/adobe%20lightroom-Expert?style=for-the-badge&logo=adobelightroom&logoColor=white&color=%2331a8ff)
 ![ADOBE PREMIEREPRO](https://img.shields.io/badge/adobe%20premiere%20pro-Expert?style=for-the-badge&logo=adobepremierepro&logoColor=white&color=%239c9cff)
 ![ADOBE AFTEREFFECTS](https://img.shields.io/badge/adobe%20after%20effects-Expert?style=for-the-badge&logo=adobeaftereffects&logoColor=white&color=%23c489ff)
 
