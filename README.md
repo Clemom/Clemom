@@ -2,24 +2,23 @@
 
 ## 👤 À propos de moi
 
-Je m'appelle Clément Moreau, j'ai 27 ans basé à Bordeaux, avec une riche expérience de 6 ans dans l'audiovisuel. Ayant géré le flux de travail de projets de pré-production à post-production, je suis actuellement en pleine reconversion professionnelle vers le développement web, portant un intérêt particulier pour le JavaScript et ses frameworks.
+Je m'appelle Clément Moreau, j'ai 27 ans et je suis basé à Bordeaux. 
+Après 6 ans en tant qu’au entrepreneur dans l'audiovisuel, j’entame aujourd’hui une reconversion professionnelle en développement web. Désireux d’en apprendre plus sur ce domaine, je suis en auto-formation intensive depuis le mois de septembre 2023 : HTML, CSS, PHP, JavaScript, SQL, MySQL, Git, GitHub, Figma…
+
+A la rentrée prochaine, je serai étudiant en 3ème année de Bachelor Développement Informatique au sein de l’école Sup de Vinci, à Bordeaux. Je suis donc à la recherche d’une alternance pour monter en compétences sur cette nouvelle activité.
 
 ## 🛠️ Mon parcours
 
 - 💼 6 ans d'expérience à mon compte dans l'audiovisuel.
-- 🌐 Actuellement en apprentissage dans le développement web (actuellement, je me concentre sur JavaScript).
-- 📚 À venir : Formation en développement web à [Sup de Vinci](https://www.supdevinci.fr/) Bordeaux dès septembre.
-- 🎯 En quête d'une alternance pour septembre, désireux de mêler la théorie à la pratique.
+- 🌐 Actuellement en reconversion professionnelle et en auto-formation intensive dans le développement web. Actuellement, j’approfondis mes connaissances en JavaScript.
+- 📚 À venir : Préparation Bachelor Développement Web à [Sup de Vinci](https://www.supdevinci.fr/) Bordeaux, en alternance, dès septembre.
+- 🎯 A la recherche d'une alternance pour septembre, dans le but de me perfectionner et d’allier la théorie à la pratique.
 
 ## 🤝 Connectons-nous !
 
-Si mon profil vous intéresse, n'hésitez pas à me contacter 👇​
+Si mon profil vous intéresse ou que vous êtes à la recherche d’un alternant déterminé à réussir sa reconversion professionnelle, n'hésitez pas à me contacter  👇​
 
 ![Static Badge](https://img.shields.io/badge/LinkedIn-Expert?style=flat-square&logo=LinkedIn&color=%23126bc4&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fclementmoreaupro%2F)
-
-
-
-
 
 
 
