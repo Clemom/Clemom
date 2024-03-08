@@ -21,7 +21,8 @@ A la rentrée prochaine, je serai étudiant en 3ème année de Bachelor Dévelop
 
 Si mon profil vous intéresse ou que vous êtes à la recherche d’un alternant déterminé à réussir sa reconversion professionnelle, n'hésitez pas à me contacter  👇​
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-Expert?style=flat-square&logo=LinkedIn&color=%23126bc4&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fclementmoreaupro%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ClementMoreau-blue)](https://www.linkedin.com/in/clementmoreaupro/)
+
 
 
 
