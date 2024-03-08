@@ -12,7 +12,7 @@ A la rentrée prochaine, je serai étudiant en 3ème année de Bachelor Dévelop
 - 💼 6 ans d'expérience à mon compte dans l'audiovisuel.
 - 🌐 Actuellement en reconversion professionnelle et en auto-formation intensive dans le développement web. Actuellement, j’approfondis mes connaissances en JavaScript.
 - 📚 À venir : Préparation Bachelor Développement Web à [Sup de Vinci](https://www.supdevinci.fr/) Bordeaux, en alternance, dès septembre.
-- 🎯 A la recherche d'une alternance dès Juin, dans le but de me perfectionner et d’allier la théorie à la pratique.
+- 🎯 A la recherche d'une alternance dans le but de me perfectionner et d’allier la théorie à la pratique. Disponible dès juin 2024, sur Bordeaux, Marseille, Montpellier et les alentours de ces 3 villes. 
 
 ## 🤝 Connectons-nous !
 
