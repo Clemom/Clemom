@@ -15,22 +15,23 @@ Je m'appelle Clément Moreau, j'ai 27 ans basé à Bordeaux, avec une riche exp�
 
 Si mon profil vous intéresse, n'hésitez pas à me contacter 👇​
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ClementMoreau-blue)]([Votre-URL-LinkedIn](https://www.linkedin.com/in/clementmoreaupro/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ClementMoreau-blue)]([[Votre-URL-LinkedIn](https://www.linkedin.com/in/clementmoreaupro/)])
 
 
 ## 💻 Tech Stack
 
 Je mets actuellement en pratique mes connaissances à travers divers projets, en utilisant :
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-Expert?logo=php&logoColor=white&color=%237b7fb5))
-![SQL]()
-![MySQL](https://img.shields.io/badge/-MySQL-%2300f?style=flat&logo=mysql&logoColor=white)
-![GITHUB]()
-![GIT]()
-![VISUALSTUDIO]()
-![WORDPRESS]()
-![FIGMA]()
+![HTML5](https://img.shields.io/badge/HTML5-Expert?style=for-the-badge&logo=HTML5&logoColor=white&color=%23f16b31)
+![CSS3](https://img.shields.io/badge/CSS3-Expert?style=for-the-badge&logo=CSS3&logoColor=white&color=%232face0)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert?style=for-the-badge&logo=JavaScript&logoColor=black&color=%23f7e025)
+![PHP](https://img.shields.io/badge/PHP-Expert?logo=php&logoColor=white&color=%237b7fb5)
+![SQL](https://img.shields.io/badge/sql-Expert?style=for-the-badge&logo=sql&logoColor=black&color=%23087dd7)
+![MySQL](https://img.shields.io/badge/MYSQL-Expert?style=for-the-badge&logo=mysql&logoColor=white&color=%2308638a)
+![GITHUB](https://img.shields.io/badge/github-Expert?style=for-the-badge&logo=github&logoColor=white&color=%232b3036)
+![GIT](https://img.shields.io/badge/git-Expert?style=for-the-badge&logo=git&logoColor=white&color=%23f15639)
+![VISUALSTUDIO](https://img.shields.io/badge/visualstudio-Expert?style=for-the-badge&logo=visualstudio&logoColor=white&color=%230983ce)
+![WORDPRESS](https://img.shields.io/badge/wordpress-Expert?style=for-the-badge&logo=wordpress&logoColor=white&color=black)
+![FIGMA](https://img.shields.io/badge/figma-Expert?style=for-the-badge&logo=figma&logoColor=white&color=%23a55eff)
+
 
