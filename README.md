@@ -32,17 +32,27 @@ Je mets actuellement en pratique mes connaissances à travers divers projets, en
 ![GIT](https://img.shields.io/badge/git-Expert?style=for-the-badge&logo=git&logoColor=white&color=%23f15639)
 ![VISUALSTUDIO](https://img.shields.io/badge/visualstudio-Expert?style=for-the-badge&logo=visualstudio&logoColor=white&color=%230983ce)
 ![WORDPRESS](https://img.shields.io/badge/wordpress-Expert?style=for-the-badge&logo=wordpress&logoColor=white&color=black)
-![ADOBE ILLUSTRATOR](https://img.shields.io/badge/illustrator-Expert?style=for-the-badge&logo=ai&logoColor=white&color=%23ff7b20)
-
-
-
-
-
-
-
-
-
-
 ![FIGMA](https://img.shields.io/badge/figma-Expert?style=for-the-badge&logo=figma&logoColor=white&color=%23a55eff)
+![ADOBE ILLUSTRATOR](https://img.shields.io/badge/adobeillustrator-Expert?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=%23ff7b20)
+![ADOBE PHOTOSHOP](https://img.shields.io/badge/adobephotoshop-Expert?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=%2308253c)
+![ADOBE INDESIGN](https://img.shields.io/badge/adobeindesign-Expert?style=for-the-badge&logo=adobeindesign&logoColor=white&color=%234f0a26)
+![ADOBE LIGHTROOM](https://img.shields.io/badge/adobelightroom-Expert?style=for-the-badge&logo=adobelightroom&logoColor=white&color=%23001e36)
+![ADOBE PREMIEREPRO](https://img.shields.io/badge/adobepremierepro-Expert?style=for-the-badge&logo=adobepremierepro&logoColor=white&color=%23a2a0ff)
+![ADOBE AFTEREFFECTS](https://img.shields.io/badge/adobeaftereffects-Expert?style=for-the-badge&logo=adobeaftereffects&logoColor=white&color=%23080860)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
