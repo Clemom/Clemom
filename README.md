@@ -3,7 +3,7 @@
 ## 👤 À propos de moi
 
 Je m'appelle Clément Moreau, j'ai 27 ans et je suis basé à Bordeaux. 
-Après 6 ans en tant qu’autoentrepreneur dans l'audiovisuel, j’entame aujourd’hui une reconversion professionnelle en développement web. Désireux d’en apprendre plus sur ce domaine, je suis en auto-formation intensive depuis le mois de septembre 2023 : HTML, CSS, PHP, JavaScript, SQL, MySQL, Git, GitHub, Figma…
+Après 6 ans en tant qu’autoentrepreneur dans l'audiovisuel, j’entame aujourd’hui une reconversion professionnelle en développement web. Désireux d’en apprendre plus sur ce domaine, je suis en auto-formation intensive depuis le mois de septembre 2023 : HTML, CSS, JavaScript, SQL, MySQL, Git, GitHub, Figma…
 
 A la rentrée prochaine, je serai étudiant en 3ème année de Bachelor Développement Informatique au sein de l’école Sup de Vinci, à Bordeaux. Je suis donc à la recherche d’une alternance pour monter en compétences sur cette nouvelle activité.
 
@@ -35,7 +35,6 @@ Je mets actuellement en pratique mes connaissances à travers divers projets, en
 ![HTML5](https://img.shields.io/badge/HTML5-Expert?style=for-the-badge&logo=HTML5&logoColor=white&color=%23f16b31)
 ![CSS3](https://img.shields.io/badge/CSS3-Expert?style=for-the-badge&logo=CSS3&logoColor=white&color=%232face0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert?style=for-the-badge&logo=JavaScript&logoColor=black&color=%23f7e025)
-![PHP](https://img.shields.io/badge/php-Expert?style=for-the-badge&logo=php&logoColor=white&color=%23787bac)
 ![SQL](https://img.shields.io/badge/sql-Expert?style=for-the-badge&logo=sql&logoColor=black&color=%23087dd7)
 ![MySQL](https://img.shields.io/badge/MYSQL-Expert?style=for-the-badge&logo=mysql&logoColor=white&color=%2308638a)
 ![GITHUB](https://img.shields.io/badge/github-Expert?style=for-the-badge&logo=github&logoColor=white&color=%232b3036)
