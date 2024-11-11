@@ -5,27 +5,22 @@
 Je m'appelle Clément Moreau, j'ai 27 ans et je suis basé à Bordeaux. 
 Après 6 ans en tant qu’autoentrepreneur dans l'audiovisuel, j’entame aujourd’hui une reconversion professionnelle en développement web. Désireux d’en apprendre plus sur ce domaine, je suis en auto-formation intensive depuis le mois de septembre 2023 : HTML, CSS, JavaScript, SQL, MySQL, Git, GitHub, Figma…
 
-A la rentrée prochaine, je serai étudiant en 3ème année de Bachelor Développement Informatique au sein de l’école Sup de Vinci, à Bordeaux. Je suis donc à la recherche d’une alternance pour monter en compétences sur cette nouvelle activité.
+Je suis étudiant en 3ème année de Bachelor Développement Informatique au sein de l’école Sup de Vinci, à Bordeaux.
 
 ## 🛠️ Mon parcours
 
  💼 6 ans d'expérience à mon compte dans l'audiovisuel.
  
  🌐 Actuellement en reconversion professionnelle et en auto-formation intensive dans le développement web. Actuellement, j’approfondis mes connaissances en JavaScript.
+
+ 💼 En alternance depuis le 9 septembre chez GestOnLIne !
  
- 📚 À venir : Préparation Bachelor Développement Web à [Sup de Vinci](https://www.supdevinci.fr/) Bordeaux, en alternance, dès octobre.
+ 📚 À venir : Préparation Bachelor Développement Web à [Sup de Vinci](https://www.supdevinci.fr/)
  
- 🎯 A la recherche d'une alternance dans le but de me perfectionner et d’allier la théorie à la pratique. Disponible dès août 2024, sur Bordeaux, Marseille, Montpellier et les alentours de ces 3 villes. 
 
 ## 🤝 Connectons-nous !
 
-Si mon profil vous intéresse ou que vous êtes à la recherche d’un alternant déterminé à réussir sa reconversion professionnelle, n'hésitez pas à me contacter  👇​
-
 [![LinkedIn](https://img.shields.io/badge/Clement%20Moreau-expert?logo=Linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/clementmoreaupro/)
-[![SITEENTREPRISE](https://img.shields.io/badge/Diotime%20Production-Expert?style=flat-square&logo=wordpress&color=black)](https://diotimeproduction.fr/)
-
-
-
 
 
 ## 💻 Tech Stack
