@@ -3,19 +3,19 @@
 ## 👤 À propos de moi
 
 Je m'appelle Clément Moreau, j'ai 29 ans et je suis basé à Bordeaux. 
-Après 6 ans en tant qu’autoentrepreneur dans l'audiovisuel, j’entame aujourd’hui une reconversion professionnelle en développement web. Désireux d’en apprendre plus sur ce domaine, je suis en auto-formation intensive depuis le mois de septembre 2023 : HTML, CSS, JavaScript, SQL, MySQL, Git, GitHub, Figma…
+Actuellement en 3ème année de Bachelor Développement Informatique à Sup de Vinci Bordeaux et en alternance chez Gest On Line, spécialiste dans le développement de solutions d'audit financier.
 
-Je suis étudiant en 3ème année de Bachelor Développement Informatique au sein de l’école Sup de Vinci, à Bordeaux.
+Mon rôle consiste à concevoir et développer de nouvelles fonctionnalités, assurer la maintenance des applications existantes et optimiser les performances des solutions en production. J’interviens sur des projets impliquant PHP (Symfony, Phalcon), JavaScript (React), Python (Flask) et PostgreSQL.
 
 ## 🛠️ Mon parcours
 
- 💼 6 ans d'expérience à mon compte dans l'audiovisuel.
+ 💼 Reconversion professionnelle en développement web après 6 ans d'expérience à mon compte dans l'audiovisuel.
  
- 🌐 Actuellement en reconversion professionnelle et en auto-formation intensive dans le développement web. Actuellement, j’approfondis mes connaissances en JavaScript.
+ 🌐 Actuellement en 3ème année de Bachelor Développement Web à [Sup de Vinci](https://www.supdevinci.fr/)
 
- 💼 En alternance depuis le 9 septembre chez GestOnLIne !
+ 💼 En alternance depuis le 9 septembre 2024 chez GestOnLIne !
  
- 📚 À venir : Préparation Bachelor Développement Web à [Sup de Vinci](https://www.supdevinci.fr/)
+ 📚 À venir : Préparation Mastère Développement Web Full Stack à [Sup de Vinci](https://www.supdevinci.fr/)
  
 
 ## 🤝 Connectons-nous !
